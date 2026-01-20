@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    height: 25px;
+    background-color: grey;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.body{
+    height: 50px;
+    background-color: aquamarine;
+}
+.body h1{
+    text-align: center;
+}
+
+.card1{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center;
+    padding-top: 10PX;
+}
+.card2{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center;
+    padding-top: 10PX;
+}
+.card3{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center;
+    padding-top: 10PX;
+}
+.CARDS{
+    display: flex;
+    padding: 15px;
+}
+.section h3{
+    text-align: center;
+}
+.section button{
+    background-color: orange;
+    height: 25px;
+    width: 120px;
+}
+.section{
+    padding-left: 10px;
+}
+.table{
+    padding: 10px;
+}
